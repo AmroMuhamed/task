@@ -1,0 +1,126 @@
+[
+  {
+    "id":"1",
+    "name":"Shampoo",
+    "image":"images/sh1.png",
+    "type":"Head & shoulders",
+    "wt":"1L",
+    "price":"300",
+    "desc":"Head & Shoulders is the world’s number one shampoo. But we’re about more than just fighting dandruff. We believe that everyone deserves great-looking, flake-free hair and healthy scalp. So if you’re suffering from dandruff simply check out our articles for any advice you need, then get ready to live flake-free and confident.",
+    "details":"Everyone’s body reacts differently to stress. If tensions are high and you’re feeling a little overwhelmed with a world that’s constantly in flux, take some time at home pay special attention to how your body responds."
+  },
+  {"id":"2",
+  "name":"Shampoo",
+  "image":"images/sh2.png",
+  "type":"Grow String",
+  "wt":"1L",
+  "price":"200",
+  "desc":"Get inspired by trending colors. Try new hair color ideas at home, with expert colorist tips and personalized recommendations from our Virtual Shade Selector.","details":"Whether you’re interested in getting an auburn hair makeover or deepening your burgundy hue — we have a fiery shade of red for you."},
+  
+    {"id":"3",
+    "name":"Shampoo",
+    "image":"images/sh3.png",
+    "type":"Head & shoulders",
+    "wt":"1L",
+    "price":"400",
+    "desc":"Get inspired by trending colors. Try new hair color ideas at home, with expert colorist tips and personalized recommendations from our Virtual Shade Selector.","details":"Whether you’re interested in getting an auburn hair makeover or deepening your burgundy hue — we have a fiery shade of red for you."},
+    
+    {"id":"4",
+    "name":"Shampoo",
+    "image":"images/sh4.png",
+    "type":"Suave",
+    "wt":"1L",
+    "price":"100",
+    "desc":"Suave shampoo is designed to meet all of your hair needs. Our wide range of shampoos will revive and replenish your hair to look its best. Not sure what your locks need? Take our hair quiz to find the best shampoo for your hair type.","details":"At Suave, we focus on one thing. Creating quality products that don’t cost a fortune. It’s simple, but to us, it’s everything. Because we’re about benefits, not fancy bottles"},
+    
+    {"id":"5",
+    "name":"Shampoo",
+    "image":"images/sh5.png",
+    "type":"Tresemme",
+    "wt":"1L",
+    "price":"200",
+    "desc":"Suave shampoo is designed to meet all of your hair needs. Our wide range of shampoos will revive and replenish your hair to look its best. Not sure what your locks need? Take our hair quiz to find the best shampoo for your hair type.","details":"At Suave, we focus on one thing. Creating quality products that don’t cost a fortune. It’s simple, but to us, it’s everything. Because we’re about benefits, not fancy bottles"},
+    
+    {"id":"6",
+    "name":"Shampoo",
+    "image":"images/sh6.png",
+    "type":"Aussie",
+    "wt":"1L",
+    "price":"100",
+    "desc":"At Aussie we believe having great hair shouldnt be hard work. Thats why we developed a range of hassle-free products to help you look and feel your best every day.",
+    "details":"Would you believe me if I told you that it only takes me three minutes to keep my hair healthy, soft and shiny? I’ve been using the 3 Minute Miracle Moist Deep Conditioner from @aussiehairusa for months and it’s amazing!"},
+    
+    {"id":"7",
+    "name":"Shampoo",
+    "image":"images/sh7.png",
+    "type":"Inecto",
+    "wt":"1L",
+    "price":"300",
+    "desc":"Suave shampoo is designed to meet all of your hair needs. Our wide range of shampoos will revive and replenish your hair to look its best. Not sure what your locks need? Take our hair quiz to find the best shampoo for your hair type.","details":"At Suave, we focus on one thing. Creating quality products that don’t cost a fortune. It’s simple, but to us, it’s everything. Because we’re about benefits, not fancy bottles"},
+    {"id":"8",
+    "name":"Shampoo",
+    "image":"images/sh8.png",
+    "type":"Aloxxi",
+    "wt":"1L",
+    "price":"100",
+    "desc":"Suave shampoo is designed to meet all of your hair needs. Our wide range of shampoos will revive and replenish your hair to look its best. Not sure what your locks need? Take our hair quiz to find the best shampoo for your hair type.","details":"At Suave, we focus on one thing. Creating quality products that don’t cost a fortune. It’s simple, but to us, it’s everything. Because we’re about benefits, not fancy bottles"},
+    
+    
+    {"id":"9",
+    "name":"Shampoo",
+    "image":"images/sh9.png",
+    "type":"Hello kety",
+    "wt":"1L",
+    "price":"100",
+    "desc":"Suave shampoo is designed to meet all of your hair needs. Our wide range of shampoos will revive and replenish your hair to look its best. Not sure what your locks need? Take our hair quiz to find the best shampoo for your hair type.","details":"At Suave, we focus on one thing. Creating quality products that don’t cost a fortune. It’s simple, but to us, it’s everything. Because we’re about benefits, not fancy bottles"},
+    
+    {"id":"10",
+    "name":"Shampoo",
+    "image":"images/sh10.png",
+    "type":"Vilet Crush",
+    "wt":"1L",
+    "price":"200",
+    "desc":"Suave shampoo is designed to meet all of your hair needs. Our wide range of shampoos will revive and replenish your hair to look its best. Not sure what your locks need? Take our hair quiz to find the best shampoo for your hair type.","details":"At Suave, we focus on one thing. Creating quality products that don’t cost a fortune. It’s simple, but to us, it’s everything. Because we’re about benefits, not fancy bottles"},
+
+    {"id":"11",
+    "name":"Oil",
+    "image":"images/oil1.png",
+    "type":"Mego Oil",
+    "wt":"1L",
+    "price":"30",
+    "desc":"A hydrocarbon liquid substance that is greasy to the touch and is formed by natural resources or the breakdown of fats. Oil comes in many forms as diverse as crude oil and vegetable oilRead more: http://www.businessdictionary.com/definition/oil.html",
+    "details":"A term used by the natural gas industry to describe large amounts of natural gas. This term is usually used to describe the amount of reserves or the amount of natural gas consumed over a period of months or yearsRead more: http://www.businessdictionary.com/definition/billions-of-cubic-feet-equivalent-BCFE.html"},
+    
+    {"id":"12",
+    "name":"Oil",
+    "image":"images/oil2.png",
+    "type":"Haneya",
+    "wt":"1L",
+    "price":"10",
+    "desc":"A hydrocarbon liquid substance that is greasy to the touch and is formed by natural resources or the breakdown of fats. Oil comes in many forms as diverse as crude oil and vegetable oilRead more: http://www.businessdictionary.com/definition/oil.html",
+    "details":"A term used by the natural gas industry to describe large amounts of natural gas. This term is usually used to describe the amount of reserves or the amount of natural gas consumed over a period of months or yearsRead more: http://www.businessdictionary.com/definition/billions-of-cubic-feet-equivalent-BCFE.html"},
+
+    {"id":"13",
+    "name":"Biscuits",
+    "image":"images/bis1.png",
+    "type":"El-Abd",
+    "wt":"1Kg",
+    "price":"700",
+    "desc":"Biscuit covers a wide range of flour baked products, though it is generally an unleavened cake or bread, crisp and dry in nature, and in a small",
+    "details":"A biscuit is a flour-based baked food product. Outside North America the biscuit is typically hard"},
+    
+    {"id":"14",
+    "name":"Biscuits","image":"images/bis2.png","type":"Etoile","wt":"1Kg","price":"900","desc":"Biscuit covers a wide range of flour baked products, though it is generally an unleavened cake or bread, crisp and dry in nature, and in a small","details":"A biscuit is a flour-based baked food product. Outside North America the biscuit is typically hard"},
+    
+    {"id":"15","name":"Biscuits","image":"images/bis3.png","type":"La Poire","wt":"1Kg","price":"700","desc":"Biscuit covers a wide range of flour baked products, though it is generally an unleavened cake or bread, crisp and dry in nature, and in a small","details":"A biscuit is a flour-based baked food product. Outside North America the biscuit is typically hard"},
+
+    {"id":"16","name":"Fridge","image":"images/fri1.png","type":"Zanussi","wt":"18AD","price":"8000","desc":"A refrigerator is a machine for keeping things cold. It is sometimes called a fridge or an icebox","details":"People put food and drinks in it, to keep those items cold or good (unspoiled) for a longer time"},
+    
+    {"id":"17","name":"Fridge","image":"images/fri2.png","type":"Sharp","wt":"18AD","price":"7000","desc":"A refrigerator is a machine for keeping things cold. It is sometimes called a fridge or an icebox","details":"People put food and drinks in it, to keep those items cold or good (unspoiled) for a longer time"},
+    
+    {"id":"18","name":"Fridge","image":"images/fri3.png","type":"Sharp","wt":"18AD","price":"9000","desc":"A refrigerator is a machine for keeping things cold. It is sometimes called a fridge or an icebox","details":"People put food and drinks in it, to keep those items cold or good (unspoiled) for a longer time"},
+
+    {"id":"19","name":"Mobile","image":"images/mob1.png","type":"Samsung Galaxy s9","wt":"50G","price":"9000","desc":"A mobile phone (also known as a hand phone, cell phone, or cellular telephone) is a small portable radio telephone","details":"he mobile phone can be used to communicate over long distances without wires"}
+    
+  
+  ]
